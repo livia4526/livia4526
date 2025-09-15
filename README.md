@@ -1,4 +1,4 @@
-## Sou a Lívia, desenvolvedora em formação com base na Universidade Tiradentes. Começando pelo Front-end, minha experiência em cibersegurança me dá uma visão única para sistemas. Busco dominar o Front-end para, em breve, migrar para o Back-end e me tornar uma desenvolvedora full-stack. Apaixonada por resolver problemas com código! 👋
+## Olá! 👋
 
 <!--
 **livia4526/livia4526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
