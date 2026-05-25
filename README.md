@@ -105,10 +105,10 @@ Sistema que permite ao gerente simular cenários de loja (estoque, funcionários
 
 ## 💡 Curiosidades sobre mim
 
-- 💚 Comecei com Python para automação, mas o front-end me conquistou  
+- 💚 Comecei com Python para automação  
 - 🧩 Adoro resolver problemas reais com código — não só "desafios técnicos"  
 - 🤝 Gosto de colaborar, ensinar e aprender em comunidade  
-- ✍️ Acredito que código bem escrito é código que resolve problema de gente  
+  
 
 ---
 
