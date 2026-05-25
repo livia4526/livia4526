@@ -17,7 +17,7 @@ Amo transformar problemas do mundo real em código que resolve. 🚀
 | Fase | Principais Tecnologias | Projetos Reais |
 |------|------------------------|----------------|
 | **Início** | Python, HTML, CSS, JS básico | Scripts de automação |
-| **Atualmente** | React, TypeScript, Django, Node.js, PostgreSQL | 
+| **Atualmente** | React, TypeScript, Django, Node.js, PostgreSQL | Intranet (SEMDE), Simulador de Varejo |
 
 > 📍 Evoluindo a cada sprint — sempre com código, documentação e café ☕
 
