@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou a Lívia
+# 👋 Olá! Meu nome é Lívia
 
 <div align="center">
   
