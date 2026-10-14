@@ -89,7 +89,7 @@ Também fui professora de inglês e atuei em um programa de apoio a estudantes u
 
 <div align="center">
 
-### 🐍 Meus commits virando comida
+### 🐍 Meus commits 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/livia4526/livia4526/output/github-snake-dark.svg" />
