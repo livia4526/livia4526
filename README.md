@@ -99,6 +99,5 @@ Também fui professora de inglês e atuei em um programa de apoio a estudantes u
 
 <br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/l%C3%ADvia-rodrigues-601a2236a/))
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/l%C3%ADvia-rodrigues-601a2236a/)
 </div>
