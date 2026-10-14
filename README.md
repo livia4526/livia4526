@@ -68,7 +68,7 @@ Gosto de pegar um problema do mundo real e transformar em código que resolve. �
 **Formação:** Ciência da Computação – Universidade Tiradentes
 
 **Cursos em andamento**
-- Google Cloud Computing Foundations – Google Skills (40h)
+- Cibersegurança do Zero à Prática – Digital Innovation One (3 meses)
 - Formação Front-end (HTML, CSS, JS, React) – Hora de Codar (51h)
 - Python 3 do básico ao avançado – Udemy (141h)
 
